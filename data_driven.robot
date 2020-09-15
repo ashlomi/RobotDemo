@@ -21,7 +21,7 @@ Subtraction           12 - 2 - 2    8
                       2 - -3        5
 
 Multiplication        12 * 2 * 2    48
-                      2 * -3        -6
+                      2 * -2        -4
 
 Division              12 / 2 / 2    3
                       2 / -3        -1
