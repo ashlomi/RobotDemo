@@ -15,9 +15,9 @@ Library           CalculatorLibrary.py
 *** Test Cases ***
 Addition
     Given calculator has been cleared
-    When user types "1 + 1"
+    When user types "2 + 2"
     and user pushes equals
-    Then result is "2"
+    Then result is "4"
 
 *** Keywords ***
 Calculator has been cleared
